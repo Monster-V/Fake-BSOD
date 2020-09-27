@@ -34,7 +34,6 @@ echo ^<p^>***  gv3.sys - Address F86B5A89 base at F86B5000, DateStamp 3dd9919eb^
 echo. 
 echo ^<p^>Beginning dump of physical memory^</p^> 
 echo ^<p^>Physical memory dump complete.^</p^> 
-echo ^<p style="color:red;"^>^<bdo dir^="rtl"^>You are Hacked Baby.^</bdo^>^</p^> 
 echo ^<p^>Contact your system administrator or technical support group for further assistance.^</p^> 
 echo.
 echo. 
